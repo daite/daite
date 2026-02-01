@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-I'm a software developer passionate about building elegant solutions to complex problems.
+I'm a hacker passionate about building elegant solutions to complex problems.
 
 ## About Me
 
