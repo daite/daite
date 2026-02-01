@@ -1,4 +1,4 @@
-# Hi, I'm Daite
+# Hi, I'm Chris
 
 I'm a software developer passionate about building elegant solutions to complex problems.
 
