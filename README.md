@@ -20,10 +20,9 @@ I'm a software developer passionate about building elegant solutions to complex 
 
 ## GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daite&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daite&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![daite's GitHub stats](https://github-readme-stats.vercel.app/api?username=daite&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daite&layout=compact&theme=tokyonight)
 
 ## Connect With Me
 
